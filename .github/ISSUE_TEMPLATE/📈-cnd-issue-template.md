@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: "\U0001F4C8 CND Issue Template"
+about: CND Issue Template
 title: ''
 labels: ''
 assignees: ''
